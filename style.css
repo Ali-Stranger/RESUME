@@ -1,0 +1,108 @@
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*/
+.anime{
+    animation: pad 3s infinite;
+    
+}
+@keyframes pad {
+    from{padding-left: 0%;}
+    to{padding-left: 20%;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.html{
+    animation: ali 3s infinite ease-in-out ;
+    
+background-color:aqua;
+border-radius: 20px;
+
+}
+@keyframes ali {
+    from{
+        width: 10%;
+        
+    
+    }
+to{
+    width:100%;
+}
+}
+
+.css{
+    animation: alii 3s infinite ease-in-out ;
+    
+background-color:aqua;
+border-radius: 20px;
+
+}
+@keyframes alii {
+    from{
+        width: 10%;
+        
+    
+    }
+to{
+    width:95%;
+}
+}
+.sql{
+    animation: aliii 3s infinite ease-in-out ;
+    
+background-color:aqua;
+border-radius: 20px;
+
+}
+@keyframes aliii {
+    from{
+        width: 10%;
+        
+    
+    }
+to{
+    width:80%;
+}
+}
+
+.js{
+    animation: aliiii 3s infinite ease-in-out ;
+    
+background-color:aqua;
+border-radius: 20px;
+
+}
+@keyframes aliiii {
+    from{
+        width: 10%;
+        
+    
+    }
+to{
+    width:70%;
+}
+}
+
+
